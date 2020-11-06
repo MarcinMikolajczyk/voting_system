@@ -1,1 +1,1 @@
-# voting_system
+# voting system
